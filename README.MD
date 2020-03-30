@@ -34,4 +34,4 @@ chmod 777 /usr/local/bin/iterm2-*
         Instant: checked
 ```
 
-![如图](./master/imgs/01.png)
+![如图](./imgs/01.png)
